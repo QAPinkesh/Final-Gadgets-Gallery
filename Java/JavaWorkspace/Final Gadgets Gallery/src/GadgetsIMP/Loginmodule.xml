@@ -1,0 +1,37 @@
+<suite name="Gadget Gallery">
+	
+	<test name = "Product search">
+		<classes>
+			<class name="LoginModule.findproduct" />
+		</classes>
+	</test>
+	
+	<test name = "Login">
+		<classes>
+			<class name="LoginModule.LoginGadget" />
+		</classes>
+	</test>
+	
+	<test name = "Account Registeraion">
+		<classes>
+			<class name="LoginModule.RegisteraccountGadget" />
+		</classes>
+	</test>
+	
+	
+	<!-- 
+	<test name = "Product search">
+		<classes>
+			<class name="LoginModule.findproduct" />
+		</classes>
+	</test>
+	
+	
+	<test name = "Login">
+		<classes>
+			<class name="LoginModule.LoginGadget" />
+		</classes>
+	</test>
+	-->
+	
+</suite>
