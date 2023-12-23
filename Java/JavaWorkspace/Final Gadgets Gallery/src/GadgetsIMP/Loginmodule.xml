@@ -18,6 +18,12 @@
 		</classes>
 	</test>
 	
+	<test name = "Best seller">
+		<classes>
+			<class name="LoginModule.Bestsellerlist" />
+		</classes>
+	</test>
+	
 	
 	<!-- 
 	<test name = "Product search">
